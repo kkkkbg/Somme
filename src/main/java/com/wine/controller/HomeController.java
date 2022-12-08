@@ -17,7 +17,7 @@ public class HomeController {
 	
 	@RequestMapping(value = "/", method = RequestMethod.GET)
 	public String home(Locale locale, Model model) {
-		return "home";
+		return "index";
 	}
 	@GetMapping("/accessError")
 	public void accessDenied(Authentication auth, Model model) {
