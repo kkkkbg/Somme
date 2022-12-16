@@ -89,7 +89,7 @@
 
 </details>
 <details>
-    <summary>최지은</summary>
+    <summary>👉최지은👈</summary>
 
 ### 취향별 추천    
 ![취향별추천](https://user-images.githubusercontent.com/108658971/201853136-347bc7cc-c891-417e-94e9-e17e889f3534.gif)    
